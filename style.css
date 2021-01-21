@@ -1,0 +1,30 @@
+.text {
+    font: 35px, Verdana, sans-serif;
+    text-align: center;
+    color: grey;
+    }
+
+h1 {
+    font: 30px, Times New Roman;
+    text-align: left;
+    border-bottom: solid;
+    border-color: black;
+}
+
+h2 {
+    font: 30px, Times New Roman;
+    text-align: left;
+    border-bottom: solid;
+    border-color: black;
+}
+
+.none {
+    font: 45px, Verdana;
+    color: black;
+    border-bottom: none;
+    margin-left: 30px;
+}
+
+.background {
+    background-color:cornflowerblue;
+}
